@@ -17,5 +17,7 @@ What you'll see below is a log for every program I have done to Make my java Str
 |    8    | Calculating String length |         Implemented a program to get a String from the user and find it's length Without using length() Method.                     |
 
 ## Conditional Statements and Loops ⚡🔄
-|        | Factorial of a Number  |         Implemented a program to Calculate the Factorial of a number after taking input from the User                  |
-|        | Checking if number is positive or not |         Implemented a program to check if a number is positive, negative, or zero using if-else conditions.                     |
+| Serial No                       | Name                                                                                                              |    Description 
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|    9    | Factorial of a Number  |         Implemented a program to Calculate the Factorial of a number after taking input from the User                  |
+|    10    | Checking if number is positive or not |         Implemented a program to check if a number is positive, negative, or zero using if-else conditions.                     |
